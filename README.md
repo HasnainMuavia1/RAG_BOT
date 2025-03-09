@@ -25,7 +25,7 @@ This application allows users to interact with a chatbot that can answer questio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rag-bot.git
+git clone https://github.com/HasnainMuavia1/RAG_BOT
 cd rag-bot
 ```
 
@@ -94,10 +94,6 @@ http://127.0.0.1:5000
 ```
 rag-bot/
 ├── app.py                 # Flask application entry point
-├── static/                # Static files (CSS, JS)
-│   ├── css/               # Stylesheets
-│   ├── js/                # JavaScript files
-│   └── ...
 ├── templates/             # HTML templates
 ├── data/                  # Store your PDF documents here
 └── venv/                  # Virtual environment (created during setup)
@@ -105,7 +101,7 @@ rag-bot/
 
 ## License
 
-[Add your license information here]
+[Hasnain Muavia]
 
 ## Acknowledgements
 
